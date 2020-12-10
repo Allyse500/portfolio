@@ -1,10 +1,12 @@
 import React from "react";
 import "./footer.css";
 
+import "../../index.css"
+
 function Footer() {
   return (
     <footer className="footer">
-      <span>Wikipedia Searcher</span>
+      <span>WebDev Portfolio</span>
     </footer>
   );
 }
