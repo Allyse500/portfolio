@@ -19,7 +19,7 @@ const AboutContent = () => {
     }
     return (   
     <div style = {style}>
-        <h1>Autobiography</h1>     
+        <h1 style ={{fontSize: "235%"}}>Autobiography</h1>     
         <p >My name is Allyse D. Johnson. I graduated from The University of 
         Texas at San Antonio in Dec. 2016 with a Bachelor's of Science in
         Chemistry with the focuses of Organic Synthetic and Analytical 
