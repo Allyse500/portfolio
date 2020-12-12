@@ -1,12 +1,15 @@
 import React from "react";
 import "./footer.css";
-
 import "../../index.css"
 
 function Footer() {
+  const style = {
+    textAlign: "center",
+    fontSize: "150%"
+  }
   return (
     <footer className="footer">
-      <span>WebDev Portfolio</span>
+      <p style = {style}>WebDev Portfolio 2020</p>
     </footer>
   );
 }
