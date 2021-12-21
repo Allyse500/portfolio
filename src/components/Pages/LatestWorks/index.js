@@ -21,10 +21,10 @@ const LatestWorks = () => {
           <div style = {style}>
               <h1 style ={{fontSize: "235%"}}>Latest Works</h1>     
               <div>
-              <a style={{color: "rgb(63, 23, 63)"}} href="https://immense-forest-40000.herokuapp.com/" target="_blank" rel="noreferrer">Cookie Dough</a><br/>
-          <a style={{color: "rgb(63, 23, 63)"}} href="https://hidden-savannah-06355.herokuapp.com/" target="_blank" rel="noreferrer">Google Books Search</a><br/>
-          <a style= {{color: "rgb(63, 23, 63)"}} href="https://allyse500.github.io/CodeQuiz/" target="_blank" rel="noreferrer">Code Quiz</a><br/>
-          <a style={{color: "rgb(63, 23, 63)"}} href="https://safe--route.herokuapp.com/" target="_blank" rel="noreferrer">Safe Route</a><br/>
+              <a style={{color: "rgb(63, 23, 63)"}} href="https://immense-forest-40000.herokuapp.com/" target="_blank" rel="noreferrer">Cookie Dough: PHP, MySQLi</a><br/>
+          <a style={{color: "rgb(63, 23, 63)"}} href="https://hidden-savannah-06355.herokuapp.com/" target="_blank" rel="noreferrer">Google Books Search: React, MongoDB</a><br/>
+          <a style= {{color: "rgb(63, 23, 63)"}} href="https://allyse500.github.io/CodeQuiz/" target="_blank" rel="noreferrer">Code Quiz: HTML, CSS, JavaScript</a><br/>
+          <a style={{color: "rgb(63, 23, 63)"}} href="https://safe--route.herokuapp.com/" target="_blank" rel="noreferrer">Safe Route: React, MySQL</a><br/>
         </div>
           </div>
           );
