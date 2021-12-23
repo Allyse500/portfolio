@@ -6,3 +6,28 @@ body{
     background-position: center;
     position: relative;
 }
+
+/* =================SCROLL BAR BEGIN========================== */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+   box-shadow: inset 0 0 5px grey; 
+   border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background:rgba(219, 116, 154, 0.5); 
+    box-shadow: inset 0 0 5px rgb(66, 15, 34, .5);
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(219, 116, 154, .7);
+    box-shadow: inset 0 0 5px rgb(66, 15, 34, .7);
+  }
+  /* ==================SCROLL BAR END========================= */

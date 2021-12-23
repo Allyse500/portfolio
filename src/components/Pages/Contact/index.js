@@ -5,7 +5,7 @@ import "../../../index.css"
 const Contact = () => {
     const style ={
         color: "rgb(63, 23, 63)",
-        backgroundColor: "rgb(12, 207, 221, 0.5)",
+        backgroundColor: "rgba(12, 207, 221, 0.5)",
         padding: "10px",
         fontFamily: "Arial",
         textAlign: "center",
