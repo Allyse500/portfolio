@@ -13,7 +13,7 @@ const Contact = () => {
         top: "23%",
         left: "40%",
         width: "50%",
-        fontSize: "200%",
+        fontSize: "3vh",
         border: "2px double gold",
         borderWidth: "5px",
         borderRadius: "8px"
