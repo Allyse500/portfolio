@@ -5,3 +5,14 @@ nav.navbar.navbar-default {
 #navbar {
   font-size: 200%
 }
+
+.navItem{
+  border-right: double 4px gold;
+}
+
+@media only screen and (max-width: 995px) {
+  .navItem{
+    border-bottom: solid 2px gold;
+    border-right: none;
+  }
+}

@@ -14,7 +14,7 @@ function Navbar() {
       </Link>
       <div>
         <ul className="navbar-nav">
-          <li className="nav-item">
+          <li className="nav-item navItem">
             <Link
               to="/"
               className={
@@ -26,7 +26,7 @@ function Navbar() {
               Home
             </Link>
           </li>
-          <li className="nav-item">
+          <li className="nav-item navItem">
             <Link
               to="/latestworks"
               className={window.location.pathname === "/latestworks" ? "nav-link active" : "nav-link"}
@@ -34,7 +34,7 @@ function Navbar() {
               Latest Works
             </Link>
           </li>
-          <li className="nav-item">
+          <li className="nav-item navItem">
             <Link
               to="/contact"
               className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
