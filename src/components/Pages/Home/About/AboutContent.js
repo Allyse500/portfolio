@@ -6,7 +6,7 @@ const AboutContent = () => {
     
     return (   
     <div id="paragraph">
-        <h1 style ={{fontSize: "235%"}}>Autobiography</h1>     
+        <h1 style ={{fontSize: "220%"}}>Autobiography</h1>     
         <p >My name is Allyse D. Johnson. I graduated from UTSA in Dec. 2016 with
         a B.S. in Chemistry and completed a UT Web Development Bootcamp as of 
         January 2021. Since then, I have been working on independent, private projects,

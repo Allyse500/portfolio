@@ -6,7 +6,7 @@ const LatestWorks = () => {
   
           return (   
           <div id="paragraph">
-              <h1 style ={{fontSize: "235%"}}>Latest Works</h1>     
+              <h1 style ={{fontSize: "220%"}}>Latest Works</h1>     
               <div>
               <a style={{color: "rgb(63, 23, 63)"}} href="https://immense-forest-40000.herokuapp.com/" target="_blank" rel="noreferrer">Cookie Dough: PHP, MySQLi</a><span>&nbsp;|&nbsp;</span><a style={{color: "rgb(63, 23, 63)"}} href="https://github.com/Allyse500/cookie_dough" target="_blank" rel="noreferrer">GitHub</a><br/>
               <a style={{color: "rgb(63, 23, 63)"}} href="https://floating-basin-71739.herokuapp.com/" target="_blank" rel="noreferrer">Cookie Dough2: EJS, MongoDB</a><span>&nbsp;|&nbsp;</span><a style={{color: "rgb(63, 23, 63)"}} href="https://github.com/Allyse500/cookie_dough2" target="_blank" rel="noreferrer">GitHub</a><br/>

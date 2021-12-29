@@ -1,6 +1,10 @@
 #name{
-    font-size: 500%;
-    width: 33%;
+    font-size: 300%;
+    /* font-size: 5.35vh; */
+    /* width: 22.5%; */
+    font-weight: bold;
+    margin-left: 10%;
+    width: 20%;
     color: rgb(63, 23, 63);
     text-align: center;
     border-bottom: 6px double rgba(255, 215, 0);
@@ -14,6 +18,7 @@
         color: rgb(63, 23, 63);
         text-align: center;
         border-bottom: 6px double rgba(255, 215, 0);
+        margin-left: 0%;
     }
 }
 /*=================SPECIFY CSS AT 500 PX=============================*/
@@ -25,5 +30,6 @@
         text-align: center;
         border-bottom: 6px double rgba(255, 215, 0);
         margin-top: 15%;
+        margin-left: 0%;
     }
 }
