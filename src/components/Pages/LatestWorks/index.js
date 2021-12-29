@@ -1,24 +1,11 @@
  import React from 'react';
- import "../../../index.css"
+ import "../../../index.css";
+ import "./latestworks.css";
 
 const LatestWorks = () => {
-        const style ={
-            color: "rgb(63, 23, 63)",
-            backgroundColor: "rgb(12, 207, 221, 0.5)",
-            padding: "10px",
-            fontFamily: "Arial",
-            textAlign: "center",
-            position: "absolute",
-            top: "23%",
-            left: "40%",
-            width: "50%",
-            fontSize: "3vh",
-            border: "2px double gold",
-            borderWidth: "5px",
-            borderRadius: "8px"
-          }
+  
           return (   
-          <div style = {style}>
+          <div id="paragraph">
               <h1 style ={{fontSize: "235%"}}>Latest Works</h1>     
               <div>
               <a style={{color: "rgb(63, 23, 63)"}} href="https://immense-forest-40000.herokuapp.com/" target="_blank" rel="noreferrer">Cookie Dough: PHP, MySQLi</a><span>&nbsp;|&nbsp;</span><a style={{color: "rgb(63, 23, 63)"}} href="https://github.com/Allyse500/cookie_dough" target="_blank" rel="noreferrer">GitHub</a><br/>

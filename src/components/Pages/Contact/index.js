@@ -3,23 +3,8 @@ import React from 'react';
 import "../../../index.css"
 
 const Contact = () => {
-    const style ={
-        color: "rgb(63, 23, 63)",
-        backgroundColor: "rgba(12, 207, 221, 0.5)",
-        padding: "10px",
-        fontFamily: "Arial",
-        textAlign: "center",
-        position: "absolute",
-        top: "23%",
-        left: "40%",
-        width: "50%",
-        fontSize: "3vh",
-        border: "2px double gold",
-        borderWidth: "5px",
-        borderRadius: "8px"
-      }
     return (
-        <div style = {style}>
+        <div id="paragraph">
             <h2 style ={{fontSize:"235%"}}>Contact Information</h2>
             <p>Phone: 737-224-1626</p>
             <p>email: ayubired@gmail.com</p>
