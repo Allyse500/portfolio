@@ -1,25 +1,11 @@
 import React from 'react';
+import "./aboutContent.css";
 
 
 const AboutContent = () => {
-    const style ={
-      color: "rgb(63, 23, 63)",
-      backgroundColor: "rgb(12, 207, 221, 0.5)",
-      padding: "10px",
-      fontFamily: "Arial",
-      textAlign: "center",
-      position: "absolute",
-      top: "23%",
-      left: "40%",
-      width: "50%",
-      height: "fit-content", 
-      fontSize: "3vh",
-      border: "2px double gold",
-      borderWidth: "5px",
-      borderRadius: "8px"
-    }
+    
     return (   
-    <div style = {style}>
+    <div id="paragraph">
         <h1 style ={{fontSize: "235%"}}>Autobiography</h1>     
         <p >My name is Allyse D. Johnson. I graduated from UTSA in Dec. 2016 with
         a B.S. in Chemistry and completed a UT Web Development Bootcamp as of 

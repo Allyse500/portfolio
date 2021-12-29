@@ -31,3 +31,15 @@ body{
     box-shadow: inset 0 0 5px rgb(66, 15, 34, .7);
   }
   /* ==================SCROLL BAR END========================= */
+
+  /*=================SPECIFY CSS AT 500 PX=============================*/
+@media only screen and (max-width: 500px) {
+  body{
+    background-image: url('backgroundPhoto.jpg');
+    background-size: 200vw 200vh;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+}
