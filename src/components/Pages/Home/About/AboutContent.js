@@ -26,7 +26,7 @@ const AboutContent = () => {
         January 2021. Since then, I have been working on independent, private projects,
         building my experience with more languages and techniques. I have 1 year 
         experience using advanced HTML, CSS and JavaScript and have prepared full stack pages
-        using React, EJS, Node.js, SQL and MongoDB. Now, my intention is to find
+        using React, EJS, Node.js, PHP, MySQLi and MongoDB. Now, my intention is to find
         a job in web development that will permit me to continue this career.
         </p>
     </div>
