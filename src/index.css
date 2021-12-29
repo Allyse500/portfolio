@@ -38,7 +38,7 @@ body{
     background-image: url('backgroundPhoto.jpg');
     background-size: 200vw 200vh;
     background-repeat: no-repeat; 
-    background-size: cover;
+    /* background-size: cover; */
     background-position: center;
     position: relative;
 }
