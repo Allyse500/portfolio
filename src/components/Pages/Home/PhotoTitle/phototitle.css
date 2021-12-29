@@ -5,6 +5,17 @@
     text-align: center;
     border-bottom: 6px double rgba(255, 215, 0);
 }
+
+/*=================SPECIFY CSS AT 800 PX=============================*/
+@media only screen and (max-width: 800px) {
+    #name{
+        font-size: 5vw;
+        width: 33%;
+        color: rgb(63, 23, 63);
+        text-align: center;
+        border-bottom: 6px double rgba(255, 215, 0);
+    }
+}
 /*=================SPECIFY CSS AT 500 PX=============================*/
 @media only screen and (max-width: 500px) {
     #name{
