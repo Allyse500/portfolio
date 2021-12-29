@@ -8,6 +8,7 @@ import Contact from "./components/Pages/Contact";
 import LatestWorks from "./components/Pages/LatestWorks";
 import MyPhoto from "./Photos/myPhoto.jpg";
 import PhotoTitle from "./components/Pages/Home/PhotoTitle/phototitle";
+import "./app.css";
 
 
 function App() {
