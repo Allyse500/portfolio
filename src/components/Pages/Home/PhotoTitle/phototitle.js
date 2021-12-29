@@ -1,15 +1,10 @@
 import React from "react";
+import "./phototitle.css";
 
 const PhotoTitle = () =>{
-    const style = {
-        fontSize: "500%",
-        width: "33%",
-        color: "rgb(63, 23, 63)",
-        textAlign: "center",
-        borderBottom: "6px double rgba(255, 215, 0)"
-    }
+    
     return (
-        <h1 style = {style}>
+        <h1 id="name">
             Allyse D. Johnson
         </h1>
     )
