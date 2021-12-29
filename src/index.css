@@ -36,7 +36,7 @@ body{
 @media only screen and (max-width: 500px) {
   body{
     background-image: url('backgroundPhoto.jpg');
-    background-size: 200vw 200vh;
+    background-size: 100vw 150vh;
     background-repeat: no-repeat; 
     /* background-size: cover; */
     background-position: center;
