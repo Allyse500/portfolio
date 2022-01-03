@@ -9,7 +9,7 @@ function Footer() {
   }
   return (
     <footer className="footer">
-      <p style = {style}>WebDev Portfolio 2020</p>
+      <p style = {style}>WebDev Portfolio 2022</p>
     </footer>
   );
 }
