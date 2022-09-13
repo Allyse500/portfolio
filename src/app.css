@@ -1,7 +1,5 @@
 .photo{
-    /* height: 30%; */
     height: 25%;
-    /* width: 22.5%; */
     width: 20%;
     margin-left: 10%;
     border-radius:10px;
@@ -22,7 +20,6 @@
     .photo{
         margin-left: 0%;
         height: 30%;
-        /* width: 22.5%; */
         width: 30%; 
     }
 }
