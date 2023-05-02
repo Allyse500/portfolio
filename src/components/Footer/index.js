@@ -7,9 +7,11 @@ function Footer() {
     textAlign: "center",
     fontSize: "150%"
   }
+
+  const year = new Date;
   return (
     <footer className="footer">
-      <p style = {style}>WebDev Portfolio 2022</p>
+      <p style = {style}>WebDev Portfolio {year.getFullYear()}</p>
     </footer>
   );
 }
